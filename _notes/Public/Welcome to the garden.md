@@ -1,7 +1,7 @@
 ---
 title : Welcome to the garden
 notetype : feed
-date : 15-04-2021
+date : 01-01-2021
 ---
 
 This is a sample atomic note! The file location is `_notes/Public`, and it appears on the note feed. `_notes` is the Obsidian Vault directory. _Check  <a href="../posts/how-to"> how to </a> to know more._ 
